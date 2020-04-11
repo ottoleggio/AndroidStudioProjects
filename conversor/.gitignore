@@ -8,19 +8,18 @@
 .buildlog/
 .history
 .svn/
+.dart_tool/
+.idea/
+android/
+build/
+ios/
+
 
 # IntelliJ related
 *.iml
 *.ipr
 *.iws
 .idea/
-.dart_tool/
-.idea/
-android/
-build/
-ios/
-.gradle/
-images/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
